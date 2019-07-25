@@ -1,0 +1,83 @@
+
+
+
+#buycarlist{
+	/*border: solid 1px #000;*/
+	margin: 10px 3px;
+	width: 100%;
+}
+#buycarlist div{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+.thumbnail{
+	/*border: solid 1px #000;*/
+}
+.thumbnail img{
+	width: 100%;
+}
+.thumbnail h3{
+	font-size: 20px;
+	margin-top: -5px;
+}
+.thumbnail>div{
+	/*height: 400px;*/
+}
+
+.caption input{
+	display: inline;
+	width: 30px;
+}
+
+
+
+/*支付兰*/
+.pay{
+/*border: solid 1px #000;*/
+position: fixed;
+bottom: 10%;
+width: 95%;
+height: 10%;
+left: 50%;
+margin-left: -49%;
+font-size: 20px;
+font-family: "隶书";
+/*background: #F89292;*/
+}
+
+/*支付兰计数*/
+.pay .col-xs-8{
+/*border: solid 1px #000;*/
+
+/*text-align: center;*/
+}
+/*支付兰计数结束*/
+/*支付兰按钮*/
+.pay .col-xs-4{
+/*text-align: center;*/
+/*border: solid 1px #000;*/
+}
+.pay .col-xs-4 div{
+/*text-align: center;*/
+/*border: solid 1px #000;*/	
+}
+/*支付兰按钮结束*/
+/*支付兰结束*/
+
+
+
+/*购物车按钮*/
+.pay .col-xs-4 button{
+display: inline-block;
+width: 100px;
+height: 50px;
+font-family: "华文行楷";
+color: red;
+font-size: 25px;
+}
+/*购物车按钮结束*/

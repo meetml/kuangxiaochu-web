@@ -1,0 +1,15 @@
+
+
+
+/*笔记列表*/
+.notelist{
+  padding-top: 0;
+}
+.notelistitem{
+  border: solid 2px #c6d8eb;
+  background-color: #d9e5f2; 
+}
+.positionbuttom{
+  text-align: right;  
+}
+/*笔记列表结束*/
